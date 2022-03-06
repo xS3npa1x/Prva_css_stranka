@@ -1,0 +1,142 @@
+.kontajner {
+    background-position: center;
+    background-size: cover;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
+    background-color: black;
+    height: 670px;
+    width: 1537px;
+    margin-left: -10px;
+    
+}
+
+.hlavicka {
+    background-color: black;
+    width: 1537px;
+    height: 80px;
+    margin-left: -10px;
+    margin-top: -20px;
+}
+.logo_menu {
+    width: 210px;
+    height: 190px;
+    cursor: pointer;
+    margin-left: 10px;
+    align-items: center;
+    margin-top: -50px;
+    margin-left: -10px;
+
+
+}
+.navigacny_panel {
+        height: 12%;
+        display: flex;
+        align-items: center;
+}
+nav ul li {
+    display: inline-block;
+    margin-left:    -15px;
+    padding-right: 70px;
+    
+}
+nav {
+    text-align: right;
+    flex: 1;
+    margin-top: -125px;
+    
+}
+a {
+text-decoration: none;
+color: orangered;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.mobily {
+    background-image: url(../produkty/mobily1.jpg);
+    height: 250px;
+    width: 330px;   
+    margin-left: 57px;  
+    object-position: center;
+}
+
+.chladnicky{
+    background-image: url(../produkty/chladnicky1.jpg);
+    height: 250px;
+    width: 330px;  
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+.televizory {
+    background-image: url(../produkty/televizory1.jpg);
+    height: 250px;
+    width: 330px;  
+    margin-left: 275px;
+    
+}
+
+.notebooky {
+    background-image: url(../Produkty/notebooky1.jpg);
+    
+    height: 250px;
+    width: 330px;  
+    margin-left: 100px;
+    object-position: center;
+    
+
+}
+
+.fotoaparaty {
+    background-image: url(../Produkty/eos-m-cameras-2x_2621372361440151.jpg); 
+    height: 250px;
+    width: 330px; 
+    margin-left: 100px;
+    object-position: center;
+}
+.mriezka {
+    border-radius: 20px;    
+    padding: 15px 25px;
+    margin-top: 30px;
+    box-sizing: border-box;
+    cursor: pointer;
+    background-position: center;
+    background-size: cover;
+    
+}
+.fotoaparaty:hover {
+    transform: translateY(-5px);
+    transition: transform 0.5s;
+   
+    
+}
+
+.notebooky:hover {
+    transform: translateY(-5px);
+    transition: transform 0.5s;
+
+}
+.televizory:hover {
+    transform: translateY(-5px);
+    transition: transform 0.5s;
+}
+.chladnicky:hover {
+    transform: translateY(-5px);
+    transition: transform 0.5s;
+}
+.mobily:hover {
+    transform: translateY(-5px);
+    transition: transform 0.5s;
+}
+
+.pata {
+    font-size: 8px;
+    height: 15px;
+    width: 1535px;
+    color: white;
+    background-color: black;
+    margin-left: -8px;
+}
+p1 {
+    padding-bottom: 5px;
+    font-size: 12px;
+}

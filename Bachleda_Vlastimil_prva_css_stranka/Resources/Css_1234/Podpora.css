@@ -1,0 +1,97 @@
+.kontajner {
+    background-position: center;
+    background-size: cover;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
+    background-color: black;
+    height: 670px;
+    width: 1530px;
+    margin-left: -10px;
+    }
+    .background {
+        height: 60px;
+        width: 80px;
+    }
+    .hlavicka {
+        background-color: black;
+        width: 1530px;
+        height: 80px;
+        margin-left: -10px;
+        margin-top: -20px;
+    }
+    .logo_menu {
+        width: 210px;
+        height: 190px;
+        cursor: pointer;
+        margin-left: 10px;
+        align-items: center;
+        margin-top: -50px;
+        margin-left: -10px;
+    
+    }
+    .navigacny_panel {
+            height: 12%;
+            display: flex;
+            align-items: center;
+    }
+    nav ul li {
+        display: inline-block;
+        margin-left:    -15px;
+        padding-right: 70px;
+        
+    }
+    nav {
+        text-align: right;
+        flex: 1;
+        margin-top: -125px;
+        
+    }
+    .zoznam {
+        color: orangered;
+    
+    }
+    a {
+    text-decoration: none;
+    color: orangered;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    }
+
+    .pata{
+        background-color: black;
+        color: white;
+        margin-left: -8px;
+    }
+    p1{
+        font-size: 12px;
+    }
+
+    p2 {
+        color: orangered;
+    }
+
+    p3 {
+        color: white;
+    }
+p4 {
+    color: white;
+}
+
+p11 {margin-left: 94.5px;}   
+
+p12 {
+    margin-left: 63px;
+}
+p13 {
+    margin-left: 9px;
+}
+
+.p14 {
+    margin-top: -16px;
+}
+
+.odkazy {
+    color: white;
+    font-size: 18px;
+}

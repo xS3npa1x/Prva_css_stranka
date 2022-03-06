@@ -1,0 +1,93 @@
+.kontajner {
+    background-position: center;
+    background-size: cover;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
+    background-color: black;
+    height: 770px;
+    width: 1530px;
+    margin-left: -10px;
+    }
+    .background {
+        height: 60px;
+        width: 80px;
+    }
+    .hlavicka {
+        background-color: black;
+        width: 1530px;
+        height: 80px;
+        margin-left: -10px;
+        margin-top: -20px;
+    }
+    .logo_menu {
+        width: 210px;
+        height: 190px;
+        cursor: pointer;
+        margin-left: 10px;
+        align-items: center;
+        margin-top: -50px;
+        margin-left: -10px;
+    
+    }
+    .navigacny_panel {
+            height: 12%;
+            display: flex;
+            align-items: center;
+    }
+    nav ul li {
+        display: inline-block;
+        margin-left:    -15px;
+        padding-right: 70px;
+        
+    }
+    nav {
+        text-align: right;
+        flex: 1;
+        margin-top: -125px;
+        
+    }
+    .zoznam {
+        color: orangered;
+    
+    }
+    a {
+    text-decoration: none;
+    color: orangered;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    }
+
+    .pata {
+        width: 1535px;
+        color: white;
+        background-color: black;
+        margin-left: -8px;
+    }
+    
+    p3 {
+        font-size: 12px;
+    }
+
+    p4 {
+        color: orangered;
+        display: flex;
+        justify-content: center;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 40px;
+        padding-top: 20px;
+    }
+
+    .dopravaa {
+        margin-left:135px;
+    }
+
+.tabulka {
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    margin-top: 25px;
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

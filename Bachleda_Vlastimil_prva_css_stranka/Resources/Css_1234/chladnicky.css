@@ -1,0 +1,254 @@
+.kontajner {
+   
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
+    background-color: black;
+    height: 1700px;
+    width: 1537px;
+    margin-left: -10px;
+    
+}
+
+.hlavicka {
+    background-color: black;
+    width: 1537px;
+    height: 80px;
+    margin-left: -10px;
+    margin-top: -20px;
+}
+.logo_menu {
+    width: 210px;
+    height: 190px;
+    cursor: pointer;
+    margin-left: 10px;
+    align-items: center;
+    margin-top: -50px;
+    margin-left: -10px;
+
+
+}
+.navigacny_panel {
+        height: 12%;
+        display: flex;
+        align-items: center;
+}
+nav ul li {
+    display: inline-block;
+    margin-left:    -15px;
+    padding-right: 70px;
+    
+}
+nav {
+    text-align: right;
+    flex: 1;
+    margin-top: -125px;
+    
+}
+a {
+text-decoration: none;
+color: orangered;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.pata {
+    height: 15px;
+    width: 1535px;
+    color: white;
+    background-color: black;
+    margin-left: -8px;
+}
+
+.telefon1 {
+    width: 175px;
+    height: 265px;
+
+}
+
+h1 {
+    font-size: 18px;
+    color: orangered;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+
+p2 {
+   
+    color: white;
+    font-size: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+button {
+    width: 180px;
+    color: black;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    padding: 5px 1px 5px 1px;
+    background: azure;
+    border: 0;
+    border-radius: 20px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+p3 {
+    color: white;
+    font-size: 14px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+
+
+.telefon2 {
+    width: 150px;
+    height: 262px;
+   
+}
+
+h2 {
+    font-size: 18px;
+    color: orangered;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+p4 {
+    color: white;
+    font-size: 14px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+h1 {
+    font-size: 18px;
+    color: orangered;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+
+p2 {
+   
+    color: white;
+    font-size: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+button {
+    width: 180px;
+    color: black;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    padding: 5px 1px 5px 1px;
+    background: azure;
+    border: 0;
+    border-radius: 20px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+p3 {
+    color: white;
+    font-size: 14px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+
+.telefon3 {
+    width: 175px;
+    height: 262px;
+}
+
+h3 {
+    font-size: 18px;
+    color: orangered;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+p5 {
+    color: white;
+    font-size: 14px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+.telefon4 {
+    width: 150px;
+    height: 262px;
+   
+}
+
+h4 {
+    font-size: 18px;
+    color: orangered;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+
+
+p6 {
+    color: white;
+    font-size: 14px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+.telefon5 {
+    width: 150px;
+    height: 262px;
+    margin-left: 12px;
+}
+
+h5 {
+    font-size: 18px;
+    color: orangered;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p7 {
+    color: white;
+}
+
+p8 {
+    color: white;
+    font-size: 14px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.flex {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.flex1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.telefon55 {
+    margin-left: 130px;
+}
+
+.b1 {
+    margin-top: -13px;
+    margin-bottom: 10px;
+}
+
+p1 {
+    font-size: 12px;
+}
